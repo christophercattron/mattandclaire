@@ -3,6 +3,10 @@ padding: 15px;
 }
 
 .background-mb {
-background-color: rgb(131,12,178);
+background-color: rgb(2,60,25);
 color: white;
+}
+
+.background-cb {
+background-color: rgb(199,199,199)
 }
